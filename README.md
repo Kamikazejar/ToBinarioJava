@@ -1,7 +1,7 @@
 
 ## Descripción 📑
 
-[PDF Del Problema](laboratorio%201%20programacion.pdf)
+[PDF Del Problema](assets/pdf/laboratorio%201%20programacion.pdf)
 
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
