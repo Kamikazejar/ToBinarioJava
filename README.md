@@ -1,7 +1,7 @@
 
 ## Descripción 📑
 
-[Ver el archivo PDF](laboratorio 1 programacion.pdf)
+[PDF Del Problema](laboratorio_1_programacion.pdf)
 
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
