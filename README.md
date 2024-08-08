@@ -17,7 +17,7 @@ Convertir un string a binario y a trabajar con matrices 3x3 en Java.
 
 * [rcarmonah@outlook.com](rcarmonah@outlook.com)
 * [LinkedIn](https://www.linkedin.com/in/rodrigocarmonah/)
-* [Porfolio web]([https://tu-dominio.com/](https://rodrigocarmonaherrera.com/))
+* [Portafolio web](https://rodrigocarmonaherrera.com/)
 
 ## Instalación 
 Para compilar y ejecutar este proyecto Java, necesitarás un compilador Java. Si aún no tienes uno, puedes instalar el [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/javase-downloads.html).
