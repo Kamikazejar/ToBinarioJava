@@ -6,7 +6,7 @@
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
 
-A trabajar con matrices 3x3 en Java
+Convertir un string a binario y a trabajar con matrices 3x3 en Java.
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -15,7 +15,7 @@ A trabajar con matrices 3x3 en Java
 ## Autor ✒️
 **Kamikazejar**
 
-* [micorreo@midominio.com](rcarmonah@outlook.com)
+* [rcarmonah@outlook.com](rcarmonah@outlook.com)
 * [LinkedIn](https://www.linkedin.com/in/rodrigocarmonah/)
 * [Porfolio web]([https://tu-dominio.com/](https://rodrigocarmonaherrera.com/))
 
