@@ -15,10 +15,10 @@ Convertir un string a binario y a trabajar con matrices 3x3 en Java.
 ## Autor ✒️
 **Kamikazejar**
 
-* [rcarmonah@outlook.com](rcarmonah@outlook.com)
-* [LinkedIn](https://www.linkedin.com/in/rodrigocarmonah/)
-* [Portafolio web](https://rodrigocarmonaherrera.com/)
-
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rodrigocarmonah/){:target="_blank"}
+* [![Portafolio Web](https://img.shields.io/badge/Portafolio-Web-orange)](https://rodrigocarmonaherrera.com/){:target="_blank"}
+* [![Email](https://img.shields.io/badge/Email-rcarmonah%40outlook.com-red)](mailto:rcarmonah@outlook.com)
+  
 ## Instalación 
 Para compilar y ejecutar este proyecto Java, necesitarás un compilador Java. Si aún no tienes uno, puedes instalar el [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/javase-downloads.html).
   
